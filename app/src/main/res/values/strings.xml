@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Message Tracker</string>
+    <string name="notificationlistner">Notificationlistener</string>
+</resources>
